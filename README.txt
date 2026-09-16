@@ -1,10 +1,8 @@
-AUTO-FINANCIAL.SK – statický web
+AUTO-FINANCIAL.SK – GitHub Pages package
 
-Soubory k publikaci:
-- index.html
-- vozidla.html
-- nehnutelnosti.html
-- styles.css
-- assets/logo-auto-financial.png
+Main language: Slovak (root)
+Czech: /cz/
+English: /en/
 
-GitHub Pages: nahrajte celý obsah této složky do kořene repozitáře. Doménu auto-financial.sk lze následně připojit přes GitHub Pages a DNS u Webglobe stejně jako u předchozího webu.
+Upload the CONTENTS of this ZIP to the root of the GitHub Pages repository.
+Main entry point: index.html
